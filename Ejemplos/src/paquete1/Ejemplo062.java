@@ -34,7 +34,7 @@ public class Ejemplo062 {
              dato = 5 ;
             }
             // se agrega una condicion  y se vrefica que cumpla la condicion 
-            //para que ingrese los datos  y sino se pone 5
+            //para que ingrese los datos  y sino no  se pone 5
             // se asigna la variable dato a la posición del arreglo
             // de acuerdo al valor de i
             arreglo1[i] = dato;
